@@ -1,0 +1,26 @@
+.customized {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vw;
+
+}
+.header1 {
+    color: #B94F37;
+    font-size: 7vw;
+    text-align: center;
+    margin-top: -10vw;
+}
+.bar {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header2 {
+    color: #B94F37;
+    font-size: 7vw;
+    margin-top: -15vw;
+    margin-left: 5vw;
+}
