@@ -1,0 +1,29 @@
+.header {
+    font-size: 10vw;
+    margin-top: 20vw;
+    text-align: center;
+    color: #2A2930;
+}
+.date {
+    font-size: 20vw;
+    margin-left: 5vw;
+    color: #B49354;
+}
+.title {
+    font-size: 7vw;
+    margin-left: 5vw;
+    color: #B49354;
+}
+.photo {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.text {
+    margin-left: 5vw;
+    margin-right: 5vw;
+    color: #2A2930;
+    margin-bottom: 10vw;
+}
