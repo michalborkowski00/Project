@@ -3,6 +3,7 @@
     margin-top: 20vw;
     text-align: center;
     color: #2A2930;
+    margin-bottom: 15vw;
 }
 .date {
     font-size: 20vw;
@@ -26,4 +27,42 @@
     margin-right: 5vw;
     color: #2A2930;
     margin-bottom: 10vw;
+}
+hr {
+  border-top: 5px solid #B49354;
+    width: 50%;
+}
+@media only screen and (min-width: 750px) {
+
+    .header {
+        font-size: 6vw;
+        margin-top: 50px;
+    }
+    .date {
+        font-size: 6.5vw;
+        margin-left: 10vw;
+    }
+    .title {
+        font-size: 2.5vw;
+        margin-left: 10vw;
+    }
+    .photo {
+        width: 30%;
+        margin-left: 10vw;
+        max-width: 30%;
+        margin-right: 5vw;
+        float: left;
+    }
+    .text {
+        flex-wrap: wrap;
+        font-size: 1.5vw;
+        text-align: left;
+        margin-right: 10vw;
+    }
+    .photos {
+
+        display: flex;
+        display: inline-block;
+        margin-bottom: 7vw;
+    }
 }
