@@ -39,30 +39,30 @@
         max-width: 30%;
         margin-right: 5vw;
         float: left;
-        margin-top: 5vw;
+        margin-top: 10vw;
     }
     .header2 {
         flex-wrap: wrap;
         font-size: 3vw;
         text-align: left;
         margin-right: 10vw;
-        margin-bottom: 13vw;
-        margin-top: 0;
+        margin-bottom: 2vw;
+        margin-top: 10vw;
     }
         .header3 {
         flex-wrap: wrap;
         font-size: 3vw;
         text-align: left;
         margin-right: 10vw;
-        margin-bottom: 13vw;
-        margin-top: 0;
+        margin-bottom: 2vw;
+        margin-top: 2vw;
     }
 
         .text3 {
         flex-wrap: wrap;
-        font-size: 3vw;
+        font-size: 2vw;
         text-align: left;
         margin-right: 10vw;
-        margin-bottom: 13vw;
-        margin-top: 0;
+        margin-bottom: 2vw;
+        margin-top: 2vw;
     }
