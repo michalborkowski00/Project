@@ -1,0 +1,29 @@
+.bar {
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20vw;
+}
+.header2 {
+    color: #B94F37;
+    font-size: 7vw;
+    margin-top: 5vw;
+    margin-left: 5vw;
+    margin-bottom: 5vw;
+}
+
+.header3 {
+    color: #B94F37;
+    font-size: 7vw;
+    margin-left: 5vw;
+    margin-bottom: 2vw;
+
+}
+
+.text3 {
+    color: #2A2930;
+    margin-left: 5vw;
+    font-size: 5vw;
+    margin-bottom: 5vw;
+}
