@@ -27,3 +27,24 @@
     font-size: 5vw;
     margin-bottom: 5vw;
 }
+@media only screen and (min-width: 750px) {
+    .box {
+        display: flex;
+        display: inline-block;
+        width: 100%;
+    }
+    .bar {
+        width: 60%;
+        margin-left: 10vw;
+        max-width: 30%;
+        margin-right: 5vw;
+        float: left;
+    }
+    .header2 {
+        flex-wrap: wrap;
+        font-size: 3vw;
+        text-align: left;
+        margin-right: 10vw;
+        margin-bottom: 13vw;
+        margin-top: 0;
+    }
