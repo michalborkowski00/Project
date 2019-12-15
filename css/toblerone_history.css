@@ -3,7 +3,7 @@
     margin-top: 20vw;
     text-align: center;
     color: #2A2930;
-    margin-bottom: 15vw;
+    margin-bottom: 10vw;
 }
 .date {
     font-size: 20vw;
@@ -14,12 +14,14 @@
     font-size: 7vw;
     margin-left: 5vw;
     color: #B49354;
+    margin-bottom: 3vw;
 }
 .photo {
     width: 70%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 3vw;
 
 }
 .text {
