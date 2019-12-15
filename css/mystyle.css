@@ -122,6 +122,47 @@ hr {
     width: 50%;
     margin-bottom: 3vw;
 }
+
+.footer_container {
+    background-color: #FCD079;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    height: 15%;
+    bottom: 0;
+    width: 100%;
+}
+
+.contactus_container {
+    width: 100%;
+    font-size: 1vw;
+    margin-left: 20px;
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.contactus_text {
+    color: white;
+    margin-left: 1%;
+    display: flex;
+    align-items: center;
+}
+
+.some_container {
+    font-size: 1vw;
+     display: flex;
+    align-items: center;
+    padding-bottom: 2vw;
+
+}
+
+
+.icons {
+    width: 2vw;
+    margin-left: 1vw;
+}
 @media only screen and (min-width: 750px) {
 
     .logo_image {
